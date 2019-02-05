@@ -1,0 +1,2 @@
+# angularjs-jhipster
+angularjs-jhipster
